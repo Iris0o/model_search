@@ -311,6 +311,14 @@ connect to this database and an async search will begin.
 ## Cloud AutoML
 Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
+<<<<<<< HEAD
 Change 1 in branch2
 Change 2 in branch2
 Change 3 in branch2
+=======
+Change 1 in branch1
+Change 2 in branch1
+Change 3 in branch1
+
+FINAL CHANGE
+>>>>>>> branch1
